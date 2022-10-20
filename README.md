@@ -45,7 +45,7 @@
   * > Desafío
   * > Prueba
 * Lección 3
-  * > Tutorial
+  * > https://github.com/Videojuegos-U2/Unidad-3/tree/main/Assets
   * > Laboratorio
   * > Desafío
   * > Prueba
