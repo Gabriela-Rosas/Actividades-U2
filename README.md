@@ -35,7 +35,7 @@
 ## Código Fuente
 
 * Lección 1
-  * > Tutorial
+  * > Tutorial: https://github.com/Unity-UNTG-Videojuegos/Leccion1/tree/main/Assets
   * > Laboratorio
   * > Desafío
   * > Prueba
