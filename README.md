@@ -57,7 +57,7 @@
 * Lección 5
   * > Tutorial
   * > Laboratorio
-  * > Desafío
+  * > Desafío: https://github.com/Videojuegos-U2/Challenge-5/tree/main/Assets
   * > Prueba
 * VideoJuego
 
