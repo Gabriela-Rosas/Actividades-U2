@@ -36,13 +36,13 @@
 
 * Lección 1
   * > Tutorial: https://github.com/Unity-UNTG-Videojuegos/Leccion1/tree/main/Assets
-  * > Laboratorio
-  * > Desafío
+  * > Laboratorio: https://github.com/Unity-UNTG-Videojuegos/Leccion1_Laboratorio/blob/main/Project%20Design%20Doc%20%5BWORD%5D.docx
+  * > Desafío: https://github.com/Unity-UNTG-Videojuegos/Leccion1_Challenge/tree/main/Assets
   * > Prueba
 * Lección 2
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío
+  * > Tutorial: https://github.com/Unity-UNTG-Videojuegos/Leccion2/tree/main/Assets
+  * > Laboratorio: https://github.com/Unity-UNTG-Videojuegos/Leccion2_Laboratorio-/tree/main/Assets
+  * > Desafío: https://github.com/Unity-UNTG-Videojuegos/Leccion2_Challenge/tree/main/Assets
   * > Prueba
 * Lección 3
   * > Tutorial: https://github.com/Videojuegos-U2/Unidad-3/tree/main/Assets
