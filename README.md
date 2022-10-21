@@ -48,7 +48,7 @@
   * > [Prueba 2](https://drive.google.com/drive/folders/1ZmzsdH8ncxBwUHkIaedVL7_VGftZHO97)
 * Lección 3
   * > [Tutorial 3 - Sound and Effects](https://github.com/Desarrollo-de-videojuegos-9/Leccion3_U2/tree/main/Interface_Leccion3)
-  * > [Laboratorio 3 - Player Control]()
+  * > [Laboratorio 3 - Player Control](https://github.com/Desarrollo-de-videojuegos-9/Laboratorio3_U2/tree/main/Laboratorio)
   * > [Desafío 3 - Balloons, Bombs, & Booleans](https://github.com/Desarrollo-de-videojuegos-9/Challenge3_U2/tree/main/Interface_Challenge_3)
   * > [Video 3 - Balloons, Bombs, & Booleans]()
   * > [Prueba 3]()
