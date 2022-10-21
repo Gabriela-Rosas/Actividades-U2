@@ -58,7 +58,7 @@
   * > Desafío
   * > Prueba
 * Lección 5
-  * > [Tutorial 5 - User Interface](https://github.com/Videojuegos-U2/Unidad-3)
+  * > [Tutorial 5 - User Interface](https://github.com/Desarrollo-de-videojuegos-9/Leccion5_U2/tree/main/Interface_Leccion5)
   * > [Laboratorio 5 - Swap out your Assets]()
   * > [Desafío 5 - Whack-a-Food]()
   * > [Video 3 - Whack-a-Food]()
