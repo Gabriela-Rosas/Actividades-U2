@@ -45,20 +45,22 @@
   * > Desafío: https://github.com/Unity-UNTG-Videojuegos/Leccion2_Challenge/tree/main/Assets
   * > Prueba
 * Lección 3
-  * > [Tutorial 1 - Sound and Effects](https://github.com/Videojuegos-U2/Unidad-3)
-  * > Laboratorio:
-  * > Desafio: https://github.com/Videojuegos-U2/Challenge03/tree/main/Assets
-  * > Prueba
+  * > [Tutorial 3 - Sound and Effects](https://github.com/Videojuegos-U2/Unidad-3)
+  * > [Laboratorio - Player Control] ()
+  * < [Desafío 3 - Balloons, Bombs, & Booleans]()
+  * > [Video 3]()
+  * > [Prueba 3]()
 * Lección 4
   * > Tutorial
   * > Laboratorio
   * > Desafío
   * > Prueba
 * Lección 5
-  * > Tutorial
-  * > Laboratorio
-  * > Desafío: https://github.com/Videojuegos-U2/Challenge-5/tree/main/Assets
-  * > Prueba
+  * > [Tutorial 5 - User Interface](https://github.com/Videojuegos-U2/Unidad-3)
+  * > [Laboratorio 5 - Swap out your Assets] ()
+  * < [Desafío 5 - Whack-a-Food]()
+  * > [Video 3]()
+  * > [Prueba 3]()
 * VideoJuego
 
 ## Planificación
