@@ -38,19 +38,19 @@
   * > [Tutorial 1 - Player Control ](https://github.com/Unity-UNTG-Videojuegos/Leccion1/tree/main/Assets)
   * > [Laboratorio 1 - Project Design Document ](https://github.com/Unity-UNTG-Videojuegos/Leccion1_Laboratorio/blob/main/Project%20Design%20Doc%20%5BWORD%5D.docx)
   * > [Desafío 1 - Plane Programming ](https://github.com/Unity-UNTG-Videojuegos/Leccion1_Challenge/tree/main/Assets)
-  * > [Video - Plane Programming 1](https://drive.google.com/drive/folders/1ZmzsdH8ncxBwUHkIaedVL7_VGftZHO97)
+  * > [Video 1 - Plane Programming](https://drive.google.com/drive/folders/1ZmzsdH8ncxBwUHkIaedVL7_VGftZHO97)
   * > [Prueba 1](https://drive.google.com/drive/folders/1ZmzsdH8ncxBwUHkIaedVL7_VGftZHO97)
 * Lección 2
   * > [Tutorial 2 - Basic Gameplay](https://github.com/Unity-UNTG-Videojuegos/Leccion2/tree/main/Assets3)
   * > [Laboratorio 2 - New Project with Primitives](https://github.com/Unity-UNTG-Videojuegos/Leccion2_Laboratorio-/tree/main/Assets)
   * > [Desafío 2 - Play Fetch](https://github.com/Unity-UNTG-Videojuegos/Leccion2_Challenge/tree/main/Assets)
-  * > [Video - Play Fetch 2](https://drive.google.com/drive/folders/1ZmzsdH8ncxBwUHkIaedVL7_VGftZHO97)
+  * > [Video 2 - Play Fetch ](https://drive.google.com/drive/folders/1ZmzsdH8ncxBwUHkIaedVL7_VGftZHO97)
   * > [Prueba 2](https://drive.google.com/drive/folders/1ZmzsdH8ncxBwUHkIaedVL7_VGftZHO97)
 * Lección 3
   * > [Tutorial 3 - Sound and Effects](https://github.com/Videojuegos-U2/Unidad-3)
   * > [Laboratorio 3 - Player Control]()
   * > [Desafío 3 - Balloons, Bombs, & Booleans]()
-  * > [Video- Balloons, Bombs, & Booleans 3]()
+  * > [Video 3 - Balloons, Bombs, & Booleans]()
   * > [Prueba 3]()
 * Lección 4
   * > Tutorial
@@ -61,7 +61,7 @@
   * > [Tutorial 5 - User Interface](https://github.com/Videojuegos-U2/Unidad-3)
   * > [Laboratorio 5 - Swap out your Assets]()
   * > [Desafío 5 - Whack-a-Food]()
-  * > [Video - Whack-a-Food 3]()
+  * > [Video 3 - Whack-a-Food]()
   * > [Prueba 3]()
 * VideoJuego
 
