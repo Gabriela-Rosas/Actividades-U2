@@ -50,7 +50,7 @@
   * > [Tutorial 3 - Sound and Effects](https://github.com/Desarrollo-de-videojuegos-9/Leccion3_U2/tree/main/Interface_Leccion3)
   * > [Laboratorio 3 - Player Control](https://github.com/Desarrollo-de-videojuegos-9/Laboratorio3_U2/tree/main/Laboratorio)
   * > [Desafío 3 - Balloons, Bombs, & Booleans](https://github.com/Desarrollo-de-videojuegos-9/Challenge3_U2/tree/main/Interface_Challenge_3)
-  * > [Video 3 - Balloons, Bombs, & Booleans]()
+  * > [Video 3 - Balloons, Bombs, & Booleans](https://drive.google.com/file/d/1ftCgKBpSsHzFkITvioaH2SfL0-BkB77d/view?usp=sharing)
   * > [Prueba 3](https://github.com/Desarrollo-de-videojuegos-9/Quiz3_U2/tree/main/Quiz)
 * Lección 4
   * > Tutorial
