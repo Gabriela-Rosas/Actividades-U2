@@ -47,7 +47,7 @@
   * > [Video 2 - Play Fetch ](https://drive.google.com/drive/folders/1ZmzsdH8ncxBwUHkIaedVL7_VGftZHO97)
   * > [Prueba 2](https://drive.google.com/drive/folders/1ZmzsdH8ncxBwUHkIaedVL7_VGftZHO97)
 * Lección 3
-  * > [Tutorial 3 - Sound and Effects](https://github.com/Videojuegos-U2/Unidad-3)
+  * > [Tutorial 3 - Sound and Effects](https://github.com/Desarrollo-de-videojuegos-9/Leccion3_U2)
   * > [Laboratorio 3 - Player Control]()
   * > [Desafío 3 - Balloons, Bombs, & Booleans]()
   * > [Video 3 - Balloons, Bombs, & Booleans]()
