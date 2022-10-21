@@ -61,7 +61,7 @@
   * > [Tutorial 5 - User Interface](https://github.com/Desarrollo-de-videojuegos-9/Leccion5_U2/tree/main/Interface_Leccion5)
   * > [Desafío 5 - Whack-a-Food](https://github.com/Desarrollo-de-videojuegos-9/Challenge5_U2)
   * > [Video 5 - Whack-a-Food]()
-  * > [Prueba 5]()
+  * > [Prueba 5](https://github.com/Desarrollo-de-videojuegos-9/Quiz5_U2/tree/main/Quiz)
 * VideoJuego
 
 ## Autor
