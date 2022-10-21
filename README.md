@@ -45,7 +45,7 @@
   * > Desafío: https://github.com/Unity-UNTG-Videojuegos/Leccion2_Challenge/tree/main/Assets
   * > Prueba
 * Lección 3
-  * > Tutorial: [Unit 3 - Sound and Effects]([link](https://github.com/Videojuegos-U2/Unidad-3/tree/main/Assets)) 
+  * > [Unit 3 - Sound and Effects](https://github.com/Videojuegos-U2/Unidad-3/tree/main/Assets)
   * > Laboratorio:
   * > Desafio: https://github.com/Videojuegos-U2/Challenge03/tree/main/Assets
   * > Prueba
