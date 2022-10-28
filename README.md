@@ -62,6 +62,7 @@
   * > [Desafío 5 - Whack-a-Food](https://github.com/Desarrollo-de-videojuegos-9/Challenge5_U2)
   * > [Video 5 - Whack-a-Food](https://drive.google.com/file/d/1cmAdarikvx3tf324mNgluXONXftAbpCs/view?usp=sharing)
   * > [Prueba 5](https://github.com/Desarrollo-de-videojuegos-9/Quiz5_U2/tree/main/Quiz)
+  * > [Laboratorio - Swap out yours Assets](https://github.com/Desarrollo-de-videojuegos-9/Laboratorio05_U2)
 * VideoJuego
 
 ## Autor
