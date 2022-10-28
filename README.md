@@ -54,7 +54,7 @@
   * > [Quiz 3](https://github.com/Desarrollo-de-videojuegos-9/Quiz3_U2/tree/main/Quiz)
 * Lección 4
   * > [Tutorial]
-  * > [Laboratorio - Basic Gameplay](https://github.com/Desarrollo-de-videojuegos-9/Laboratorio04_U2-)
+  * > [Laboratorio 4 - Basic Gameplay](https://github.com/Desarrollo-de-videojuegos-9/Laboratorio04_U2-)
   * > [Desafío- Soccer Scripting](https://github.com/Desarrollo-de-videojuegos-9/Challenge04_U2)
   * > [Video 4 - Soccer Scripting](https://drive.google.com/file/d/18UH5bZaiMXcz8taLIn4HENk4_7NNDqyN/view?usp=sharing)
   * > [Quiz 4](https://github.com/Desarrollo-de-videojuegos-9/Quiz04_U2)
@@ -63,7 +63,7 @@
   * > [Desafío 5 - Whack-a-Food](https://github.com/Desarrollo-de-videojuegos-9/Challenge5_U2)
   * > [Video 5 - Whack-a-Food](https://drive.google.com/file/d/1cmAdarikvx3tf324mNgluXONXftAbpCs/view?usp=sharing)
   * > [Quiz 5](https://github.com/Desarrollo-de-videojuegos-9/Quiz5_U2/tree/main/Quiz)
-  * > [Laboratorio - Swap out yours Assets](https://github.com/Desarrollo-de-videojuegos-9/Laboratorio05_U2)
+  * > [Laboratorio 5 - Swap out yours Assets](https://github.com/Desarrollo-de-videojuegos-9/Laboratorio05_U2)
 * VideoJuego
 
 ## Autor
