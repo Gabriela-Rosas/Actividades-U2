@@ -54,7 +54,7 @@
   * > [Prueba 3](https://github.com/Desarrollo-de-videojuegos-9/Quiz3_U2/tree/main/Quiz)
 * Lección 4
   * > Tutorial
-  * > Laboratorio
+  * > [Laboratorio - Basic Gameplay](https://github.com/Desarrollo-de-videojuegos-9/Laboratorio04_U2)
   * > Desafío
   * > Prueba
 * Lección 5
