@@ -55,7 +55,7 @@
 * Lección 4
   * > [Tutorial 4 - Gameplay Mechanics](https://github.com/Desarrollo-de-videojuegos-9/Leccion04_U2)
   * > [Laboratorio 4 - Basic Gameplay](https://github.com/Desarrollo-de-videojuegos-9/Laboratorio04_U2-)
-  * > [Desafío- Soccer Scripting](https://github.com/Desarrollo-de-videojuegos-9/Challenge04_U2)
+  * > [Desafío 4 - Soccer Scripting](https://github.com/Desarrollo-de-videojuegos-9/Challenge04_U2)
   * > [Video 4 - Soccer Scripting](https://drive.google.com/file/d/18UH5bZaiMXcz8taLIn4HENk4_7NNDqyN/view?usp=sharing)
   * > [Quiz 4](https://github.com/Desarrollo-de-videojuegos-9/Quiz04_U2)
 * Lección 5
