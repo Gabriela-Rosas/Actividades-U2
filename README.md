@@ -14,7 +14,7 @@
 
 ## Contenido
 
-- [Introducción](#introducción)
+- [Introducción](#)
 - [Código Fuente](#código-fuente)
 - [Planificación](#planificación)
 - [Autores](#autores)
@@ -23,9 +23,18 @@
 
 ## Introducción
 
-- Nombre del proyecto
-- Objetivo.
-- Plataforma ,Género, Clasificación, Personajes, Escenario.
+- Nombre del proyecto: Alien al escape
+- Objetivo: El Alien (Jugador) deberá esquivar diferentes obstáculos mientras se mueve para que no lo atrapen y logre llegar hasta su nave espacial y escape de la   tierra.
+- Plataforma: PC Windows
+- Género:Aventura, escape
+- Clasificación: Clasificación B, 3D. 
+- Personajes:
+- *Alienigena (Jugador, Nivel 1)
+- *Nave espacial (Jugador, Nivel 2)
+- *Agentes de la CIA(Enemigos, Nivel 1)
+- *Aviones (Enemigos, Nivel 2)
+
+- Escenario.
 - Historia
 - Personajes
 - Reglas de Juego.
