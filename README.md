@@ -23,8 +23,9 @@
 
 ## Introducción
 
-- Nombre del proyecto: Alien al escape
-- Objetivo: El Alien (Jugador) deberá esquivar diferentes obstáculos mientras se mueve para que no lo atrapen y logre llegar hasta su nave espacial y escape de la   tierra.
+#### Nombre del proyecto: Alien al escape
+- Objetivo: 
+#### El Alien (Jugador) deberá esquivar diferentes obstáculos mientras se mueve para que no lo atrapen y logre llegar hasta su nave espacial y escape de la   tierra.
 - Plataforma: 
   PC Windows
 - Género:
