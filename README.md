@@ -36,7 +36,7 @@
 ### Personajes:
 #### - Alienigena (Jugador, Nivel 1)
 #### - Nave espacial (Jugador, Nivel 2)
-#### - Carros de la CIA (Enemigos, Nivel 1)
+#### - Agentes de la CIA (Enemigos, Nivel 1)
 #### - Aviones (Enemigos, Nivel 2)
 
 ### Escenario 
