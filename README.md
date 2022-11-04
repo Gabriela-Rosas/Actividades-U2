@@ -34,7 +34,7 @@
 - Personajes:
   Alienigena (Jugador, Nivel 1)
   Nave espacial (Jugador, Nivel 2)
-  Agentes de la CIA(Enemigos, Nivel 1)
+  Carros de la CIA(Enemigos, Nivel 1)
   Aviones (Enemigos, Nivel 2)
 
 - Escenario: Ciudad (Nivel 1), Cielo (Nivel 2)
@@ -78,8 +78,13 @@ Una vez que el Alienígena haya despegado y se encuentre en el cielo aun asi abr
   * > [Laboratorio 5 - Swap out yours Assets](https://github.com/Desarrollo-de-videojuegos-9/Laboratorio05_U2)
 * VideoJuego
 
-## Autor
+## Planificación
+
+![4337008](https://user-images.githubusercontent.com/8560750/195951617-083a7e4d-323d-47b5-8e5e-529ded31bc06.jpg)
+
+## Autores
 Rosas Castillo Gabriela
+Sandoval Rodríguez Lendy Joanna
 
 ## Copyright
 Derechos Reservados 2022
