@@ -52,6 +52,11 @@ Una vez que el Alienígena haya despegado y se encuentre en el cielo aun asi abr
 - Cada vez que choque con un avión pierde una vida (Nivel 2)
 - Si pierde las 3 vidas  pierde el juego.
 
+### Bosquejo (Nivel 1)
+![image](https://user-images.githubusercontent.com/80369054/200085047-cc5f257e-e138-475a-b46a-e349518efa33.png)
+
+### Bosquejo (Nivel 2)
+![image](https://user-images.githubusercontent.com/80369054/200085082-7b7151b2-8820-40a4-8257-1248112bca0f.png)
 
 ## Código Fuente
 
