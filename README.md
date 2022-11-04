@@ -80,7 +80,7 @@ Una vez que el Alienígena haya despegado y se encuentre en el cielo aun asi abr
 
 ## Planificación
 
-[!image](https://user-images.githubusercontent.com/80369054/200052789-e989e87d-dd37-4e2b-ad37-7e1ab7ecdbc7.png)
+![image](https://user-images.githubusercontent.com/80369054/200052789-e989e87d-dd37-4e2b-ad37-7e1ab7ecdbc7.png)
 
 ## Autores
 Rosas Castillo Gabriela
