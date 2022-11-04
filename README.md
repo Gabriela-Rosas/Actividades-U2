@@ -54,7 +54,9 @@ Una vez que el Alienígena haya despegado y se encuentre en el cielo aun asi abr
 - Aviones (Enemigos, Nivel 2)
 
 ### Reglas de Juego
-- Cada vez que choque con un enemigo pierde una vida (Nivel 1), Cada vez que choque con un avión pierde una vida (Nivel 2), Si pierde las 3 vidas  pierde el juego.
+- Cada vez que choque con un enemigo pierde una vida (Nivel 1)
+- Cada vez que choque con un avión pierde una vida (Nivel 2)
+- Si pierde las 3 vidas  pierde el juego.
 
 
 ## Código Fuente
