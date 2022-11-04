@@ -23,20 +23,21 @@
 
 ## Introducción
 
-#### Nombre del proyecto: Alien al escape
-- Objetivo: 
-#### El Alien (Jugador) deberá esquivar diferentes obstáculos mientras se mueve para que no lo atrapen y logre llegar hasta su nave espacial y escape de la   tierra.
-- Plataforma: 
-  PC Windows
-- Género:
-  Aventura, escape
-- Clasificación:
-  Clasificación B, 3D. 
-- Personajes:
-  Alienigena (Jugador, Nivel 1)
-  Nave espacial (Jugador, Nivel 2)
-  Carros de la CIA(Enemigos, Nivel 1)
-  Aviones (Enemigos, Nivel 2)
+### Nombre del proyecto
+- Alien al escape
+### Objetivo: 
+ El Alien (Jugador) deberá esquivar diferentes obstáculos mientras se mueve para que no lo atrapen y logre llegar hasta su nave espacial y escape de la   tierra.
+### Plataforma: 
+- PC Windows
+### Género:
+- Aventura, escape
+### Clasificación:
+- Clasificación B, 3D. 
+### Personajes:
+#### - Alienigena (Jugador, Nivel 1)
+#### - Nave espacial (Jugador, Nivel 2)
+#### - Carros de la CIA(Enemigos, Nivel 1)
+#### - Aviones (Enemigos, Nivel 2)
 
 - Escenario: Ciudad (Nivel 1), Cielo (Nivel 2)
 - Historia: Un Alienígena que había sido capturado por la CIA ha logrado escapar de sus instalaciones sin embargo, deberá lograr llegar hasta donde tiene su nave      espacial escondida para escapar de la Tierra, mientras hace todo esto varios enemigos irán apareciendo con el propósito de matarlo y así evitar que escape.
