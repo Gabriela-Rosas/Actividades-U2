@@ -64,7 +64,7 @@ Una vez que el Alienígena haya despegado y se encuentre en el cielo aun asi abr
   * > [Video 1 - Plane Programming](https://drive.google.com/drive/folders/1ZmzsdH8ncxBwUHkIaedVL7_VGftZHO97)
   * > [Quiz 1](https://drive.google.com/drive/folders/1ZmzsdH8ncxBwUHkIaedVL7_VGftZHO97)
 * Lección 2
-  * > [Tutorial 2 - Basic Gameplay](https://github.com/Unity-UNTG-Videojuegos/Leccion2/tree/main/Assets3)
+  * > [Tutorial 2 - Basic Gameplay](https://github.com/Unity-UNTG-Videojuegos/Leccion2)
   * > [Laboratorio 2 - New Project with Primitives](https://github.com/Unity-UNTG-Videojuegos/Leccion2_Laboratorio-/tree/main/Assets)
   * > [Desafío 2 - Play Fetch](https://github.com/Unity-UNTG-Videojuegos/Leccion2_Challenge/tree/main/Assets)
   * > [Video 2 - Play Fetch ](https://drive.google.com/drive/folders/1ZmzsdH8ncxBwUHkIaedVL7_VGftZHO97)
