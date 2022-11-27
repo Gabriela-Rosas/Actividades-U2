@@ -26,7 +26,7 @@
 ### Nombre del proyecto
 - Alien al escape
 ### Objetivo: 
- El Alien (Jugador) deberá esquivar diferentes obstáculos mientras se mueve para que no lo atrapen y logre llegar hasta su nave espacial y escape de la   tierra.
+ El Alien (Jugador) deberá esquivar diferentes obstáculos mientras se mueve por una ciudad que el no conoce para que no lo atrapen  y logre escapar de ese lugar.
 ### Plataforma: 
 - PC Windows
 ### Género:
@@ -34,18 +34,16 @@
 ### Clasificación:
 - Clasificación B, 3D. 
 ### Personajes:
-#### - Alienigena (Jugador, Nivel 1)
-#### - Nave espacial (Jugador, Nivel 2)
-#### - Agentes de la CIA (Enemigos, Nivel 1)
-#### - Aviones (Enemigos, Nivel 2)
+#### - Alienigena 
+#### - Agentes de la CIA (Enemigos)
+#### - Bolas enemigas
 
 ### Escenario 
 - Ciudad (Nivel 1)
-- Cielo (Nivel 2)
 
 ### Historia
 - Un Alienígena que había sido capturado por la CIA ha logrado escapar de sus instalaciones sin embargo, deberá lograr llegar hasta donde tiene su nave espacial escondida para escapar de la Tierra, mientras hace todo esto varios enemigos irán apareciendo con el propósito de matarlo y así evitar que escape.
-Una vez que el Alienígena haya despegado y se encuentre en el cielo aun asi abran nuevos enemigos más peligrosos que los anteriores atacandolo. 
+ 
 
 ### Musicalización
 - Sonido de fondo durante el juego.
@@ -55,8 +53,7 @@ Una vez que el Alienígena haya despegado y se encuentre en el cielo aun asi abr
 
 ### Reglas de Juego
 - Cada vez que choque con un enemigo pierde una vida (Nivel 1)
-- Cada vez que choque con un avión pierde una vida (Nivel 2)
-- Si pierde las 3 vidas  pierde el juego.
+- Si pierde todas las vidas en la linea de vida pierde el juego.
 
 ### Bosquejo
 ![image](https://user-images.githubusercontent.com/80369054/200085047-cc5f257e-e138-475a-b46a-e349518efa33.png)
