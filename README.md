@@ -91,10 +91,11 @@
   * > [Quiz 5](https://github.com/Desarrollo-de-videojuegos-9/Quiz5_U2/tree/main/Quiz)
   * > [Laboratorio 5 - Swap out yours Assets](https://github.com/Desarrollo-de-videojuegos-9/Laboratorio05_U2)
 * VideoJuego
+  * >[Alien al escape](https://mega.nz/file/9P1DlR5I#ToSlSZC9aN0W1KqpHi0r1f_nq6Y45sc4XByhIczORI0)
 
 ## Planificación
 
-![image](https://user-images.githubusercontent.com/80369054/200055957-cc0d1532-77f7-43cf-9ab1-ad9a32a605ae.png)
+![image](https://user-images.githubusercontent.com/80369054/205413189-417abfa3-9284-46df-8804-7307365b9739.png)
 
 ## Autores
 #### Rosas Castillo Gabriela
