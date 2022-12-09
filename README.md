@@ -92,7 +92,7 @@
   * > [Laboratorio 5 - Swap out yours Assets](https://github.com/Desarrollo-de-videojuegos-9/Laboratorio05_U2)
 * VideoJuego
   * >[Alien al escape](https://mega.nz/file/9P1DlR5I#ToSlSZC9aN0W1KqpHi0r1f_nq6Y45sc4XByhIczORI0)
-  * >[Alien al escape](https://joann-rs.itch.io/alien)
+  * >[Despliegue Alien al escape](https://joann-rs.itch.io/alien)
 
 ## Planificación
 
